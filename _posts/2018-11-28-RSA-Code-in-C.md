@@ -175,7 +175,7 @@ tag:
 ​		return dec;
 ​	}
 
-​	long long int mod(long long int n, long long int e, long long int m)//n^e (mod m)을 수행한다.
+​	long long int mod(long long int n, long long int e, long long int m)
 ​	{
 ​		long long int i, residue = 1;
 
