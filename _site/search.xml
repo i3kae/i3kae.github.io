@@ -2,17 +2,29 @@
 <search>
   
     <entry>
-      <title><![CDATA[24.05.20 WebChat 회고]]></title>
-      <url>/memoir/2024/05/20/WebChatMemoir/</url>
-      <content type="text"><![CDATA[2024.05.20 WebChat 개발 진행 과정WebChat 진행을 위한 Github Repository 생성 및 초기 설정 작업 진행GPT로 구현한 간단한 1인 채팅 프로그램 Copy 후 동작 확인WebChat 구현은 간간히 진행하면서 우선은 웹 네트워크와 API 개념들, 스프링부트 활용법과 JS에 대해서 공부하면서 병행]]></content>
+      <title><![CDATA[웹 백엔드 언어 분석 및 프레임 워크 비교]]></title>
+      <url>/web/2024/09/20/web_framework_analysis/</url>
+      <content type="text"><![CDATA[웹 서비스를 지원하는 기업들은 다양한 언어를 사용한다.그 중 백엔드를 구성하기 위해서는 java, nodejs, python 등을 사용하지만 언어의 특징은 이해하지 않은채 사용하고 있는 것 같다는 생각이 들었다.이에 웹, 그 중 백엔드를 구성하는 언어들에 대해 알아보고 최신 트렌드에 따라 주로 사용되는 기술들에는 무엇이 있는지 분석해보고자 한다.JAVAjava의 대표적인 특징은 2가지라 생각된다.      java는 객체지향언어이다.  java는 객체지향언어의 대표격으로, 객체지향적으로 코드가 작성되고 사용된다.  이를 통해 캡슐화, 상속, 다형성 등 여러 특징을 가지고 있으며 좀 더 큰 프로젝트를 진행하고자 할 때 유지보수와 관리가 용이하다.        java는 플랫폼에 독립적인 언어이다.  java는 실행 됨에 있어 별도의 jvm이라는 가상머신을 통해 동작한다.  이런 jvm의 존재로 어떤 환경에서든 같은 코드가 실행 가능기에 플랫폼에 구애 받지 않는다는 특징이 있다.  한국에서 주로 사용되는 java의 프레임워크에는 spring과 spring boot가 있다.      Spring        Spring boot  참고자료]]></content>
       <categories>
         
-          <category> Memoir </category>
+          <category> WEB </category>
         
       </categories>
       <tags>
         
-          <tag> WebChat </tag>
+          <tag> web </tag>
+        
+          <tag> java </tag>
+        
+          <tag> nodejs </tag>
+        
+          <tag> python </tag>
+        
+          <tag> spring </tag>
+        
+          <tag> nestjs </tag>
+        
+          <tag> fastapi </tag>
         
       </tags>
       <tags></tags>

@@ -1,7 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-20T20:18:49+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">I3KAE</title><author><name>I3KAE</name></author><entry><title type="html">24.05.20 WebChat 회고</title><link href="http://localhost:4000/memoir/2024/05/20/WebChatMemoir/" rel="alternate" type="text/html" title="24.05.20 WebChat 회고" /><published>2024-05-20T00:00:00+09:00</published><updated>2024-05-20T00:00:00+09:00</updated><id>http://localhost:4000/memoir/2024/05/20/WebChatMemoir</id><content type="html" xml:base="http://localhost:4000/memoir/2024/05/20/WebChatMemoir/"><![CDATA[<p>2024.05.20 WebChat 개발 진행 과정</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-20T17:22:24+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">I3KAE</title><author><name>I3KAE</name></author><entry><title type="html">웹 백엔드 언어 분석 및 프레임 워크 비교</title><link href="http://localhost:4000/web/2024/09/20/web_framework_analysis/" rel="alternate" type="text/html" title="웹 백엔드 언어 분석 및 프레임 워크 비교" /><published>2024-09-20T00:00:00+09:00</published><updated>2024-09-20T00:00:00+09:00</updated><id>http://localhost:4000/web/2024/09/20/web_framework_analysis</id><content type="html" xml:base="http://localhost:4000/web/2024/09/20/web_framework_analysis/"><![CDATA[<p>웹 서비스를 지원하는 기업들은 다양한 언어를 사용한다.
+그 중 백엔드를 구성하기 위해서는 java, nodejs, python 등을 사용하지만 언어의 특징은 이해하지 않은채 사용하고 있는 것 같다는 생각이 들었다.
+이에 웹, 그 중 백엔드를 구성하는 언어들에 대해 알아보고 최신 트렌드에 따라 주로 사용되는 기술들에는 무엇이 있는지 분석해보고자 한다.</p>
 
-<p>WebChat 진행을 위한 Github Repository 생성 및 초기 설정 작업 진행</p>
+<h3 id="java">JAVA</h3>
 
-<p>GPT로 구현한 간단한 1인 채팅 프로그램 Copy 후 동작 확인</p>
+<p>java의 대표적인 특징은 2가지라 생각된다.</p>
 
-<p>WebChat 구현은 간간히 진행하면서 우선은 웹 네트워크와 API 개념들, 스프링부트 활용법과 JS에 대해서 공부하면서 병행</p>]]></content><author><name>I3KAE</name></author><category term="Memoir" /><category term="WebChat" /><summary type="html"><![CDATA[2024.05.20 WebChat 개발 진행 과정]]></summary></entry></feed>
+<ol>
+  <li>
+    <p>java는 객체지향언어이다.
+  java는 객체지향언어의 대표격으로, 객체지향적으로 코드가 작성되고 사용된다.
+  이를 통해 캡슐화, 상속, 다형성 등 여러 특징을 가지고 있으며 좀 더 큰 프로젝트를 진행하고자 할 때 유지보수와 관리가 용이하다.</p>
+  </li>
+  <li>
+    <p>java는 플랫폼에 독립적인 언어이다.
+  java는 실행 됨에 있어 별도의 jvm이라는 가상머신을 통해 동작한다.
+  이런 jvm의 존재로 어떤 환경에서든 같은 코드가 실행 가능기에 플랫폼에 구애 받지 않는다는 특징이 있다.</p>
+  </li>
+</ol>
+
+<p>한국에서 주로 사용되는 java의 프레임워크에는 spring과 spring boot가 있다.</p>
+
+<ul>
+  <li>
+    <p>Spring</p>
+  </li>
+  <li>
+    <p>Spring boot</p>
+  </li>
+</ul>
+
+<p><strong>참고자료</strong></p>]]></content><author><name>I3KAE</name></author><category term="WEB" /><category term="web" /><category term="java" /><category term="nodejs" /><category term="python" /><category term="spring" /><category term="nestjs" /><category term="fastapi" /><summary type="html"><![CDATA[웹 서비스를 지원하는 기업들은 다양한 언어를 사용한다. 그 중 백엔드를 구성하기 위해서는 java, nodejs, python 등을 사용하지만 언어의 특징은 이해하지 않은채 사용하고 있는 것 같다는 생각이 들었다. 이에 웹, 그 중 백엔드를 구성하는 언어들에 대해 알아보고 최신 트렌드에 따라 주로 사용되는 기술들에는 무엇이 있는지 분석해보고자 한다.]]></summary></entry></feed>
